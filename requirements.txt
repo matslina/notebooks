@@ -1,0 +1,9 @@
+google-cloud-bigquery
+jupyterlab
+pandas
+numpy
+matplotlib
+pyarrow
+wordcloud
+geopy
+plotly==5.9.0
